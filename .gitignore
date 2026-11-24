@@ -1,0 +1,10 @@
+# Backend
+backend/*.exe
+backend/tareas-backend
+backend/*.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.firebase/
+*.tsbuildinfo
